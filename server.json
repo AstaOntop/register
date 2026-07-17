@@ -1,0 +1,19 @@
+{
+  "owner": {
+    "username": "AstaOntop"
+  },
+  "record": {
+    "A": ["103.190.0.15"],
+    "SRV": [
+      {
+        "service": "_minecraft",
+        "protocol": "_tcp",
+        "name": "@",
+        "priority": 0,
+        "weight": 5,
+        "port": 25839,
+        "target": "tqq.is-a.dev"
+      }
+    ]
+  }
+}
